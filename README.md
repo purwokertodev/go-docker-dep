@@ -1,6 +1,15 @@
 ## Project Skeleton for Go with Dep and Docker
 
-### Running
+### Running with Go
+  - Step 1, install Dep https://golang.github.io/dep/
+
+  - Step 2, install dependencies
+
+  ```shell
+  dep ensure
+  ```
+
+### Running with Docker
   - Step 1
 
   ```shell
