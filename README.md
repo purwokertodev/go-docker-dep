@@ -10,20 +10,20 @@
   - Step 2, install dependencies
 
   ```shell
-  dep ensure
+  $ dep ensure
   ```
 
 ### Running with Docker
   - Step 1
 
   ```shell
-  make docker
+  $ make docker
   ```
 
   - Step 2
 
   ```shell
-  docker run --rm go-awesome-dep
+  $ docker run --rm go-awesome-dep
   ```
 
 ###
